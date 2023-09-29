@@ -8,6 +8,12 @@ public class GitMergeConflictsResolveApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitMergeConflictsResolveApplication.class, args);
+	
+
+	int b=20;
+
+	int a=10;
+
 	}
 
 }
